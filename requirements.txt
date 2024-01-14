@@ -1,5 +1,0 @@
-colorama
-time
-socket
-threading
-random
